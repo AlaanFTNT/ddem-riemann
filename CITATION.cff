@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "DDEM: Multi-Frequency Dark-Sector Coupling under a Riemann-Zeros Spectrum"
+version: 1.0.0
+date-released: 2026-05-17
+license: MIT
+repository-code: "https://github.com/AlaanFTNT/ddem-riemann"
+authors:
+  - family-names: Franklin
+    given-names: Alaan
+    email: alaan.franklin@tacnextech.com
+    affiliation: "Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming"
+preferred-citation:
+  type: article
+  title: "Multi-Frequency Dark-Sector Comb Structure: A Riemann-Zeros Realization and Joint Cosmological Constraints"
+  year: 2026
+  journal: "JCAP (submitted)"
+  authors:
+    - family-names: Franklin
+      given-names: Alaan
+      email: alaan.franklin@tacnextech.com
+      affiliation: "Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming"

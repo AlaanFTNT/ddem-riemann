@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+emcee>=3.1
+dynesty>=2.1
+mpmath>=1.3
+getdist>=1.4
+matplotlib>=3.8
+h5py>=3.10
