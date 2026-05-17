@@ -335,6 +335,12 @@ A direct fit to the DR1 LRG1 multipoles using an Eisenstein–Hu no-wiggle trans
 
 ---
 
+## Data and code availability
+
+The full analysis pipeline (background ODE solver, PPF and per-mode Boltzmann perturbation solvers, joint emcee MCMC, dynesty Bayesian evidence calculation, GUE pair-correlation test, figure generation scripts, and the paper source) is publicly available at <https://github.com/AlaanFTNT/ddem-riemann>. The v1.0 release is archived at Zenodo with DOI [to be inserted upon submission]. Public data products used in this work are DESI DR2 BAO (DESI Collaboration 2025a), Planck 2018 cosmological-parameter marginals (Planck Collaboration 2020), the compiled fσ_8(z) measurements from 6dFGRS, BOSS DR12, eBOSS DR16, and DESI DR1 full-shape, the Beutler et al. 2023 feature-amplitude bound, the Qu et al. 2025 joint CMB lensing reconstruction, and the Pantheon+ Type Ia supernova data release (Brout et al. 2022). No proprietary data is used.
+
+---
+
 ## References
 
 - Abbott, T. M. C. et al. (DES) (2022). "Dark Energy Survey Year 3 results." Phys. Rev. D 105, 023520.
