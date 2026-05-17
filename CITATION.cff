@@ -5,6 +5,10 @@ version: 1.0.0
 date-released: 2026-05-17
 license: MIT
 repository-code: "https://github.com/AlaanFTNT/ddem-riemann"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20259746"
+    description: "Zenodo archive of v1.0.0"
 authors:
   - family-names: Franklin
     given-names: Alaan

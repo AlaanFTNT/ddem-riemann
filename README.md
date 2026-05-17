@@ -1,12 +1,15 @@
 # Multi-Frequency Dark-Sector Comb Structure: A Riemann-Zeros Realization and Joint Cosmological Constraints
 
-Alaan Franklin (2026). Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20259746.svg)](https://doi.org/10.5281/zenodo.20259746)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Alaan Franklin (2026). Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming. ORCID: [0009-0002-1706-4222](https://orcid.org/0009-0002-1706-4222).
 
 This repository implements a Pourtsidou Type-2 conformal coupled quintessence model in which the dark-sector coupling kernel carries a GUE-class multi-frequency spectrum, realized as a tabulation of the non-trivial Riemann zeros. The code computes background evolution, scalar perturbations through a PPF closure and a per-mode Boltzmann solve, joint MCMC posteriors against Planck, DESI, ACT, and Pantheon+, Bayesian evidence under both the full and canonical-reduction parameterizations, and a GUE pair-correlation Tier 1 test on the recovered comb frequencies. Synthetic injection-recovery harnesses cover the single-redshift and multi-redshift cases. A patch to CLASS is provided for users who need a coupled background solve outside the Python emulator path used in production.
 
 ## Citation
 
-If you use this code, cite the paper (citation TBD on submission to JCAP) and the Zenodo DOI (TBD).
+If you use this code, cite the paper (citation TBD on submission to JCAP) and the Zenodo archive at DOI [10.5281/zenodo.20259746](https://doi.org/10.5281/zenodo.20259746).
 
 ## Repository structure
 
