@@ -3,7 +3,8 @@ title: "Multi-Frequency Dark-Sector Comb Structure: A Riemann-Zeros Realization 
 author: |
     Alaan Franklin\
     Consortium for Space Mobility and ISAM Capabilities (COSMIC)\
-    Tactical Nexus Technologies LLC, Sheridan, Wyoming
+    Tactical Nexus Technologies LLC, Sheridan, Wyoming\
+    ORCID: [0009-0002-1706-4222](https://orcid.org/0009-0002-1706-4222)
 date: "May 2026"
 abstract-title: "Abstract"
 ---

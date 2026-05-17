@@ -9,6 +9,7 @@ authors:
   - family-names: Franklin
     given-names: Alaan
     email: alaan.franklin@tacnextech.com
+    orcid: "https://orcid.org/0009-0002-1706-4222"
     affiliation: "Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming"
 preferred-citation:
   type: article
@@ -19,4 +20,5 @@ preferred-citation:
     - family-names: Franklin
       given-names: Alaan
       email: alaan.franklin@tacnextech.com
+      orcid: "https://orcid.org/0009-0002-1706-4222"
       affiliation: "Consortium for Space Mobility and ISAM Capabilities (COSMIC); Tactical Nexus Technologies LLC, Sheridan, Wyoming"
